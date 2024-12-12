@@ -1,4 +1,4 @@
-### my framework for deeplearning using rust and numpy bindings
+### my framework for deeplearning using rust 
 progress  :
 - implementend activations as traits and structs
 - impleented forward and  constructor for dense layer
