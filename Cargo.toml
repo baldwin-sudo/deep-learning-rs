@@ -1,0 +1,9 @@
+[package]
+name = "rust-net"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.16.1"
+num = "0.4"
+rand = "0.8.5"
